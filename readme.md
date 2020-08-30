@@ -8,7 +8,15 @@ To have a common repository where we can share fixes or suggestions to books. We
 
 ## Organization
 
-Each book will have a separate file containing errata for the different versions of a book.
+Each book will have a separate file containing information about the book (eg: link to amazon or goodreads) and errata for the (possible) different versions of it.
+
+The name of the file should not overlap with other books with the same name, so please use the [slugified](https://en.wikipedia.org/wiki/Clean_URL#Slug) name of the book, suffixed by the [ISBN-13](https://en.wikipedia.org/wiki/International_Standard_Book_Number) (if existent).
+
+Example:
+
+This is the file which contains information about [*M. van Steen and A.S. Tanenbaum, Distributed Systems*](https://www.distributed-systems.net/):
+
+> ./books/distributed-systems-978-1543057386.md
 
 ## PR
 
