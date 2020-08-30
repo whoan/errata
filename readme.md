@@ -18,6 +18,12 @@ This is the file which contains information about [*M. van Steen and A.S. Tanenb
 
 > ./books/distributed-systems-978-1543057386.md
 
+## Conventions
+
+- Be specific on the version of the book where the errors were found and add a comment if the error was fixed in a subsequent version
+- Be as specific as possible to spot the section where the error is found
+- If you are telling in which paragraph the error was found, consider also a paragraph the one which started in the previous page and finishes in the referred page
+
 ## PR
 
 Feel free to submit a PR adding errors/improvements to any book (existent in the repo or new ones).
