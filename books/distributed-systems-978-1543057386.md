@@ -14,3 +14,5 @@
 - p. 240, Chapter 5.2, Note 5.1, last sentence -> _return a copy **to** the requester._ (not sure)
 - p. 261, Chapter 5.3, 1st paragraph, last sentence -> _Figure ~~5.9~~ **5.11**_
 - p. 272, Chapter 5.3, 2nd paragraph -> _A subtree is called a domain **and** a path_
+- p. 323, Chapter 6.3, 3rd paragraph -> I think the last sentence should say: _as we illustrate in ~~Section 6.3~~ **Note 6.5**_ (not sure)
+- p. 323, Chapter 6.3, 1st paragraph of "A distributed algorithm" -> Misplaced paranthesis
