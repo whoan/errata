@@ -6,6 +6,10 @@
 - ISBN-13: 978-1543057386
 - Authors: M. van Steen and A.S. Tanenbaum
 
+### Errata edition 3.01
+
+- p. 367, Chapter 7.2, Note 7.3, Figure 7.8 -> P1: W(x)a  W(y)~~b~~**a**  R(x)b
+
 ### Errata edition 3.01 and 3.02
 
 - p. 143, Chapter 3.4, 4th paragraph -> _without passing through the ~~server~~ **switch**_
