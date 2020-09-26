@@ -20,3 +20,6 @@
 - p. 272, Chapter 5.3, 2nd paragraph -> _A subtree is called a domain **and** a path_
 - p. 323, Chapter 6.3, 3rd paragraph -> I think the last sentence should say: _as we illustrate in ~~Section 6.3~~ **Note 6.5**_ (not sure)
 - p. 323, Chapter 6.3, 1st paragraph of "A distributed algorithm" -> Misplaced paranthesis
+- p. 371, Chapter 7.2, 3rd paragraph, 4th sentence -> _~~course~~**coarse**-grained_
+- p. 374, Chapter 7.2, Note 7.4, paragraph preceded by Figure 7.14, last mention of Wc -> _Wc(M1)[T~~1~~**3**, {C}]_
+- p. 375, Chapter 7.2, Note 7.4, penultimate paragraph -> I think it would be better to specify who is writing the meetings. In this case it would be Wb, Wb, and Wc, instead of just W, W, W. eg: _The reason is that W**b**(M1)..._
