@@ -23,3 +23,6 @@
 - p. 371, Chapter 7.2, 3rd paragraph, 4th sentence -> _~~course~~**coarse**-grained_
 - p. 374, Chapter 7.2, Note 7.4, paragraph preceded by Figure 7.14, last mention of Wc -> _Wc(M1)[T~~1~~**3**, {C}]_
 - p. 375, Chapter 7.2, Note 7.4, penultimate paragraph -> I think it would be better to specify who is writing the meetings. In this case it would be Wb, Wb, and Wc, instead of just W, W, W. eg: _The reason is that W**b**(M1)..._
+- p. 390, Chapter 7.4, penultimate paragraph -> _data items are rarely ~~shared~~ **updated**._
+- p. 427, Chapter 8.1, 1st paragraph -> _is the ~~fault~~ **cause** of the error_
+- p. 462, Chapter 8.2, 2nd paragraph -> _~~than~~ **then** so is consensus_
