@@ -6,7 +6,11 @@ This repo contains errata and improvement proposals for books.
 
 To have a common repository where we can share fixes or suggestions to books. We will be able to keep our books up to date with the last fixes, even before a new version is released (if that happens at all).
 
-## Organization
+## Index
+
+- [*M. van Steen and A.S. Tanenbaum, Distributed Systems*](books/distributed-systems-978-1543057386.md)
+
+## Structure
 
 Each book will have a separate file containing information about the book (eg: link to amazon or goodreads) and errata for the (possible) different versions of it.
 
