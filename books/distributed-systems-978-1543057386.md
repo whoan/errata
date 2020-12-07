@@ -1,5 +1,7 @@
 ## Distributed systems
 
+> All these errors/typos were already notified to one of the the authors (M. van Steen) and he was thankful and willing to consider them for a newer version of the book.
+
 - Web: https://www.distributed-systems.net
 - Amazon link: https://www.amazon.com/dp/1543057381/
 - Good Reads: https://www.goodreads.com/book/show/34577033-distributed-systems
