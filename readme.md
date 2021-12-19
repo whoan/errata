@@ -9,6 +9,7 @@ To have a common repository where we can share fixes or suggestions to books. We
 ## Index
 
 - [*M. van Steen and A.S. Tanenbaum, Distributed Systems*](books/distributed-systems-978-1543057386.md)
+- [*Essential Computer Science: A Programmer’s Guide to Foundational Concepts*](books/essential-computer-science-978-1484271070.md)
 
 ## Structure
 
