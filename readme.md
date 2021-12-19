@@ -10,6 +10,7 @@ To have a common repository where we can share fixes or suggestions to books. We
 
 - [*M. van Steen and A.S. Tanenbaum, Distributed Systems*](books/distributed-systems-978-1543057386.md)
 - [*Essential Computer Science: A Programmer’s Guide to Foundational Concepts*](books/essential-computer-science-978-1484271070.md)
+- [*Math for Programmers: 3D graphics, machine learning, and simulations with Python*](books/math-for-programmers-978-1-61729-535-5.md)
 
 ## Structure
 
